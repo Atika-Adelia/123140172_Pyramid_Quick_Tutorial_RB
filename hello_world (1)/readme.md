@@ -17,4 +17,5 @@
     Analisis : Pada code 15-16 dibuat objek aplikasi WSGI (Web Server Gateway Interface) yang menggunakan server HTTP bernama Waitress untuk memublikasikan aplikasi WSGI tersebut, di mana Waitress bertindak sebagai perantara yang mendengarkan permintaan HTTP masuk pada port yang ditentukan, yaitu 6543 dan meneruskannya ke aplikasi Pyramid untuk diproses.
 
 Tampilan di localhost 
+
 <img src="gambar_01.png" alt="Tampilan Hello World" width="600"/>
