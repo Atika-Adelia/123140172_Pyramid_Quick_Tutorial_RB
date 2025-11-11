@@ -1,6 +1,6 @@
 import unittest
 
-from pyramid import testing
+from pyramid import testing # type: ignore
 
 
 class TutorialViewTests(unittest.TestCase):
