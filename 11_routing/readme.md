@@ -5,6 +5,7 @@ Pada Percobaan kesebelas ini adalah tentang membuat URL yang dinamis. Pyramid me
 Perubahan yang signifikan yang ada pada percobaan kesebelas ini adalah terletak pada file tutorial/__init__.py saat mendeklarasikan route : 
 ```python
 config.add_route('home', '/howdy/{first}/{last}') 
+```
 
 Setiap segmen yang diapit kurung kurawal ({first} dan {last}) secara otomatis dikenali sebagai variabel
 
